@@ -1,0 +1,7 @@
+###### Requirements with Version Specifiers ######
+requests ~= 2.32
+pymongo>=3.11,<4.0
+pyfaktory
+pandas
+matplotlib
+TextBlob
